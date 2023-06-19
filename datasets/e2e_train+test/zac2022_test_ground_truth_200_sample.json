@@ -1,0 +1,1205 @@
+{
+    "data": [
+        {
+            "id": "testa_1",
+            "question": "Đạo diễn phim Titanic là ai",
+            "answer": "wiki/James_Cameron",
+            "candidate": "James Cameron"
+        },
+        {
+            "id": "testa_2",
+            "question": "Tổng thống Hoa Kỳ thứ 45 là ai",
+            "answer": "wiki/Donald_Trump",
+            "candidate": "Donald Trump"
+        },
+        {
+            "id": "testa_3",
+            "question": "Hiện nay ai là tổng bí thư nước Việt Nam",
+            "answer": "wiki/Nguyễn_Phú_Trọng",
+            "candidate": "Nguyễn Phú Trọng"
+        },
+        {
+            "id": "testa_4",
+            "question": "đâu là bản hiến pháp lâu đời nhất thế giới",
+            "answer": "wiki/Hiến_pháp_Hoa_Kỳ",
+            "candidate": "hiến pháp của hợp chủng quốc hoa kỳ 1787"
+        },
+        {
+            "id": "testa_5",
+            "question": "Tổ chức thống nhất châu Phi được thành lập ở đâu",
+            "answer": "wiki/Addis_Ababa",
+            "candidate": null
+        },
+        {
+            "id": "testa_6",
+            "question": "Ngọn núi lửa cao nhất thế giới Ojos del Salado nằm ở đâu",
+            "answer": "wiki/Ojos_del_Salado",
+            "candidate": "nằm trên biên giới argentina chile"
+        },
+        {
+            "id": "testa_7",
+            "question": "Tác giả của \"Bạch Đằng giang phú\"",
+            "answer": "wiki/Trương_Hán_Siêu",
+            "candidate": null
+        },
+        {
+            "id": "testa_8",
+            "question": "Ai là người đặt tên nước là Vạn Xuân?",
+            "answer": "wiki/Lý_Bí",
+            "candidate": null
+        },
+        {
+            "id": "testa_9",
+            "question": "Vị vua nào đã đặt tên quốc hiệu nước ta là Đại Cồ Việt",
+            "answer": "wiki/Đinh_Tiên_Hoàng_(định_hướng)",
+            "candidate": "vua đinh tiên hoàng"
+        },
+        {
+            "id": "testa_10",
+            "question": "Trương Quang Nghĩa sinh ngày bao nhiêu",
+            "answer": "ngày 15 tháng 9",
+            "candidate": "ngày 15 tháng 9"
+        },
+        {
+            "id": "testa_11",
+            "question": "Hồ Chí Minh đọc bản Tuyên ngôn Độc lập vào ngày tháng năm nào",
+            "answer": "ngày 2 tháng 9 năm 1945",
+            "candidate": "ngày 2 tháng 9 năm 1945"
+        },
+        {
+            "id": "testa_12",
+            "question": "Chủ tịch Hội sinh viên Việt Nam tại Paris nhiệm kỳ 1965-1966 là ai?",
+            "answer": "wiki/Nguyễn_Gia_Kiểng",
+            "candidate": "nguyễn gia kiểng"
+        },
+        {
+            "id": "testa_13",
+            "question": "Tây Du Ký phiên bản Trương Kỷ Trung khởi quay năm nào",
+            "answer": "2009",
+            "candidate": "2009"
+        },
+        {
+            "id": "testa_14",
+            "question": "Ngày môi trường thế giới 5 tháng 6 bắt đầu từ năm nào",
+            "answer": "1972",
+            "candidate": "1972"
+        },
+        {
+            "id": "testa_15",
+            "question": "Sau khi qua đời, vua Lý Nhân Tông truyền ngôi cho ai",
+            "answer": "wiki/Lý_Thần_Tông",
+            "candidate": "dương hoán"
+        },
+        {
+            "id": "testa_16",
+            "question": "Tỉnh nào có trữ lượng dầu mỏ lớn nhất Việt Nam",
+            "answer": "wiki/Bà_Rịa_–_Vũng_Tàu",
+            "candidate": "bà rịa vũng tàu"
+        },
+        {
+            "id": "testa_17",
+            "question": "Adolf Hitler sinh vào năm nào",
+            "answer": "1887",
+            "candidate": "1887"
+        },
+        {
+            "id": "testa_18",
+            "question": "Thủ đô của Đông Ti Mo ?",
+            "answer": "wiki/Dili",
+            "candidate": "Dili"
+        },
+        {
+            "id": "testa_19",
+            "question": "An Tư công chúa là con của vua Trần nào",
+            "answer": "wiki/Trần_Thánh_Tông",
+            "candidate": "trần thánh tông"
+        },
+        {
+            "id": "testa_20",
+            "question": "Thuyết tương đối đặc biệt và thuyết tương đối tổng quát là ai phát minh ra?",
+            "answer": "wiki/Albert_Einstein",
+            "candidate": "Albert Einstein"
+        },
+        {
+            "id": "testa_21",
+            "question": "Lưu Bị sống ở thời kỳ lịch sử nào của Trung Quốc",
+            "answer": "wiki/Tam_quốc",
+            "candidate": "cuối thời nhà đông hán, đầu thời tam quốc"
+        },
+        {
+            "id": "testa_22",
+            "question": "Chùa Keo Hành Thiện thuộc địa phận tỉnh nào nước ta",
+            "answer": "wiki/Nam_Định",
+            "candidate": "tỉnh nam định"
+        },
+        {
+            "id": "testa_23",
+            "question": "huấn luyện viên bóng đá Park Hang Seo sinh năm bao nhiêu",
+            "answer": "1957",
+            "candidate": "1957"
+        },
+        {
+            "id": "testa_24",
+            "question": "Nhà Hậu Lê được thành lập sau thắng lợi của cuộc khởi nghĩa nào ?",
+            "answer": "wiki/Khởi_nghĩa_Lam_Sơn",
+            "candidate": "khởi nghĩa lam sơn"
+        },
+        {
+            "id": "testa_25",
+            "question": "Chiến tranh Chaco là chiến tranh giữa Bolivia và quốc gia nào",
+            "answer": "wiki/Paraguay",
+            "candidate": "Paraguay"
+        },
+        {
+            "id": "testa_26",
+            "question": "Đỉnh núi nào cao nhất Campuchia",
+            "answer": "wiki/Phnom_Aural",
+            "candidate": "Phnom Aural"
+        },
+        {
+            "id": "testa_27",
+            "question": "Ai là người đưa ra thuyết tiến hóa trung tính",
+            "answer": "wiki/Kimura_Motoo",
+            "candidate": "Motoo Kimura"
+        },
+        {
+            "id": "testa_28",
+            "question": "Ai là vị vua đầu tiên của nhà Tiền Lý?",
+            "answer": "wiki/Lý_Nam_Đế",
+            "candidate": "Lý Bí"
+        },
+        {
+            "id": "testa_29",
+            "question": "Kinh Dương Vương có quan hệ như thế nào với Lạc Long Quân ?",
+            "answer": "wiki/Kinh_Dương_Vương",
+            "candidate": "Ông lấy con gái vua hồ Động Đình tên là Thần Long, sinh được một con trai đặt tên là Sùng Lãm, nối ngôi làm vua xưng là Lạc Long Quân."
+        },
+        {
+            "id": "testa_30",
+            "question": "Hành tinh nào nhỏ nhất trong hệ mặt trời có cấu tạo bằng đá giống trái đất?",
+            "answer": "wiki/Sao_Thủy",
+            "candidate": "Sao thủy"
+        },
+        {
+            "id": "testa_31",
+            "question": "Tập thơ “Thiên Nam dư hạ tập” được biên soạn bởi Thân Nhân Trung và Đỗ Nhuận dưới triều vua nào?",
+            "answer": "wiki/Lê_Thánh_Tông",
+            "candidate": "vua thánh tông"
+        },
+        {
+            "id": "testa_32",
+            "question": "Sông nào dài nhất châu Phi",
+            "answer": "wiki/Sông_Nin",
+            "candidate": "Sông Nin"
+        },
+        {
+            "id": "testa_33",
+            "question": "Hà Nội có bao nhiêu đơn vị hành chính cấp huyện",
+            "answer": "17",
+            "candidate": "17"
+        },
+        {
+            "id": "testa_34",
+            "question": "Ngôi sao sáng nhất trên bầu trời đêm ?",
+            "answer": "wiki/Sao_Thiên_Lang",
+            "candidate": "sirius"
+        },
+        {
+            "id": "testa_35",
+            "question": "Giải vô địch bóng đá thế giới tổ chức lần đầu tiên vào năm nào",
+            "answer": "năm 1930",
+            "candidate": "năm 1930"
+        },
+        {
+            "id": "testa_36",
+            "question": "Trường đại học nào lớn nhất Campuchia",
+            "answer": "wiki/Đại_học_Hoàng_gia_Phnom_Penh",
+            "candidate": "Đại học Hoàng gia Phnom Penh"
+        },
+        {
+            "id": "testa_37",
+            "question": "Trụ sở chính của Google tên là gì",
+            "answer": "wiki/Googleplex",
+            "candidate": "Googleplex"
+        },
+        {
+            "id": "testa_38",
+            "question": "Ai là người đầu tiên phát hiện Penicillin",
+            "answer": "wiki/Alexander_leming",
+            "candidate": "Alexander Fleming"
+        },
+        {
+            "id": "testa_39",
+            "question": "Vận động viên đang giữ kỷ lục thế giới về chạy đua 100m và 200m hiện nay là ai",
+            "answer": "wiki/Usain_Bolt",
+            "candidate": "usain bolt"
+        },
+        {
+            "id": "testa_40",
+            "question": "Ai là Chủ tịch Uỷ ban nhân dân tỉnh Bắc Kạn nhiệm kì 2011-2016",
+            "answer": "wiki/Lý_Thái_Hải",
+            "candidate": "Lý Thái Hải"
+        },
+        {
+            "id": "testa_41",
+            "question": "Nước có đơn vị tiền tệ là đồng Bạt ?",
+            "answer": "wiki/Thái_Lan",
+            "candidate": "Thái Lan"
+        },
+        {
+            "id": "testa_42",
+            "question": "Sông Amazon đổ vào đại dương nào",
+            "answer": "wiki/Đại_Tây_Dương",
+            "candidate": "Đại Tây Dương"
+        },
+        {
+            "id": "testa_43",
+            "question": "Văn hóa Phục Hưng bắt nguồn từ nước nào",
+            "answer": "wiki/Ý",
+            "candidate": "Ý"
+        },
+        {
+            "id": "testa_44",
+            "question": "Thành phố nào hiện là tỉnh lỵ của Kon Tum",
+            "answer": "wiki/Kon_Tum_(thành_phố)",
+            "candidate": "Thành phố Kon Tum"
+        },
+        {
+            "id": "testa_45",
+            "question": "Unikey được phát triển bởi ai",
+            "answer": "wiki/Phạm_Kim_Long_(nhà_phát_triển)",
+            "candidate": "Phạm Kim Long"
+        },
+        {
+            "id": "testa_46",
+            "question": "vào năm 2017 ai là người đương nhiệm vị trí tổng thư kí Liên Hợp Quốc?\"",
+            "answer": "wiki/António_Guterres",
+            "candidate": "antónio guterres"
+        },
+        {
+            "id": "testa_47",
+            "question": "Ai là người đặt chân vào mặt trăng đầu tiên",
+            "answer": "wiki/Neil_Armstrong",
+            "candidate": "Neil Armstrong"
+        },
+        {
+            "id": "testa_48",
+            "question": "Virus sởi rubella lây truyền qua đường nào?",
+            "answer": "wiki/Sởi_Đức",
+            "candidate": "đường hô hấp"
+        },
+        {
+            "id": "testa_49",
+            "question": "Vào năm 1687 ai là người phát minh ra định luật vạn vật hấp dẫn?",
+            "answer": "wiki/Isaac_Newton",
+            "candidate": "isaac newton"
+        },
+        {
+            "id": "testa_50",
+            "question": "Vườn quốc gia nào thuộc tỉnh Nghệ An",
+            "answer": "wiki/Vườn_quốc_gia_Pù_Mát",
+            "candidate": "Vườn Quốc Gia Pù Mát"
+        },
+        {
+            "id": "testa_51",
+            "question": "Tháp Phổ Minh nằm ở tỉnh nào?",
+            "answer": "wiki/Nam_Định",
+            "candidate": "Nam Định"
+        },
+        {
+            "id": "testa_52",
+            "question": "Quốc hiệu Việt Nam sử dụng lần đầu dưới thời vua nào",
+            "answer": "wiki/Gia_Long",
+            "candidate": "vua Gia Long"
+        },
+        {
+            "id": "testa_53",
+            "question": "Loại hình sân khấu cải lương bắt nguồn từ miền nào của Việt Nam",
+            "answer": "wiki/Nam_Bộ",
+            "candidate": "từ Nam Bộ"
+        },
+        {
+            "id": "testa_54",
+            "question": "Dòng sông lớn nhất của tỉnh Bình Định",
+            "answer": "wiki/Sông_Côn",
+            "candidate": "sông Côn"
+        },
+        {
+            "id": "testa_55",
+            "question": "Quốc hiệu \"Việt Nam\" được chính thức sử dụng từ năm nào",
+            "answer": "năm 1804",
+            "candidate": "năm 1804"
+        },
+        {
+            "id": "testa_56",
+            "question": "Tên ca sĩ hải ngoại độc quyền của trung tâm Thúy Nga",
+            "answer": null,
+            "candidate": null
+        },
+        {
+            "id": "testa_57",
+            "question": "Huyện Hoàng Sa hiện nay thuộc thành phố nào ở nước ta",
+            "answer": "wiki/Đà_Nẵng",
+            "candidate": "tỉnh Đà Nẵng"
+        },
+        {
+            "id": "testa_58",
+            "question": "kỳ trăng tròn thứ hai trong một tháng được gọi là gì",
+            "answer": "wiki/Trăng_xanh",
+            "candidate": "trăng xanh"
+        },
+        {
+            "id": "testa_59",
+            "question": "Thủ đô của Hàn Quốc hiện nay là gì",
+            "answer": "wiki/Seoul",
+            "candidate": "Seoul"
+        },
+        {
+            "id": "testa_60",
+            "question": "Tam tòng, tứ đức là chuẩn mực của người phụ nữ xưa theo quan niệm của đạo gì",
+            "answer": "wiki/Nho_giáo",
+            "candidate": "Nho giáo"
+        },
+        {
+            "id": "testa_61",
+            "question": "Sự kiện Thiên An Môn diễn ra vào năm nào",
+            "answer": "1989",
+            "candidate": "1989"
+        },
+        {
+            "id": "testa_62",
+            "question": "Ngày Giỗ Tổ Hùng Vương hằng năm được tổ chức tại tỉnh nào nước ta?",
+            "answer": "wiki/Phú_Thọ",
+            "candidate": "tỉnh Phú Thọ"
+        },
+        {
+            "id": "testa_63",
+            "question": "Đế quốc Đông La Mã sụp đổ vào năm nào",
+            "answer": "năm 476",
+            "candidate": "năm 476"
+        },
+        {
+            "id": "testa_64",
+            "question": "Ai là đội trưởng đầu tiên của Đội Việt Nam tuyên truyền giải phóng quân?",
+            "answer": "wiki/Hoàng_Sâm",
+            "candidate": "Hoàng Sâm"
+        },
+        {
+            "id": "testa_65",
+            "question": "Thành phố nào tổ chức Asiad năm 2010 ?",
+            "answer": "wiki/Quảng_Châu",
+            "candidate": "quảng châu, trung quốc"
+        },
+        {
+            "id": "testa_66",
+            "question": "Ai là người đánh bại vua Hùng nước Văn Lang?",
+            "answer": "wiki/An_Dương_Vương",
+            "candidate": "An Dương Vương (tên thường gọi là Thục Phán)"
+        },
+        {
+            "id": "testa_67",
+            "question": "Người lãnh đạo chinh phạt Chiêm Thành năm 1069 là ai?",
+            "answer": "wiki/Lý_Thánh_Tông",
+            "candidate": "lý thánh tông"
+        },
+        {
+            "id": "testa_68",
+            "question": "Ngô Quyền sinh vào năm nào",
+            "answer": "898",
+            "candidate": "898"
+        },
+        {
+            "id": "testa_69",
+            "question": "Kênh đào lớn nhất ở trong lịch sử Việt Nam thời quân chủ là kênh nào",
+            "answer": "wiki/Kênh_Vĩnh_Tế",
+            "candidate": "kênh vĩnh tế kinh vĩnh tế"
+        },
+        {
+            "id": "testa_70",
+            "question": "Tên dòng sông ở Nam Mỹ dài nhất thế giới",
+            "answer": "wiki/Sông_Amazon",
+            "candidate": "Sông Amazon"
+        },
+        {
+            "id": "testa_71",
+            "question": "Thủ đô của Nepal hiện nay là",
+            "answer": "wiki/Kathmandu",
+            "candidate": "Kathmandu"
+        },
+        {
+            "id": "testa_72",
+            "question": "Đại tướng Võ Nguyên Giáp mừng thọ 100 tuổi vào ngày tháng năm nào",
+            "answer": "ngày 25 tháng 8 năm 2011",
+            "candidate": "ngày 25 tháng 8 năm 2011"
+        },
+        {
+            "id": "testa_73",
+            "question": "Đỉnh núi Maglić nằm ở quốc gia nào",
+            "answer": "wiki/Bosna_và_Hercegovina",
+            "candidate": "Bosnia và Herzegovina"
+        },
+        {
+            "id": "testa_74",
+            "question": "Năm 2017, Hội nghị APEC diễn ra tại tỉnh, thành phố nào của Việt Nam",
+            "answer": "wiki/Đà_Nẵng",
+            "candidate": "Đà Nẵng"
+        },
+        {
+            "id": "testa_75",
+            "question": "chai thuỷ điện Công ty TNHH Canada Montreal là công ty thủy điện của nước nào",
+            "answer": null,
+            "candidate": null
+        },
+        {
+            "id": "testa_76",
+            "question": "Chùa Bút Tháp hiện ở tỉnh/thành nào",
+            "answer": "wiki/Bắc_Ninh",
+            "candidate": "tỉnh Bắc Ninh"
+        },
+        {
+            "id": "testa_77",
+            "question": "Ai được gọi là mặt trời thi ca của nước Nga",
+            "answer": "wiki/Aleksandr_Sergeyevich_Pushkin",
+            "candidate": "Pushkin"
+        },
+        {
+            "id": "testa_78",
+            "question": "Macedonia thuộc khu vực Đông Nam của châu nào",
+            "answer": "wiki/Châu_Âu",
+            "candidate": "châu Âu"
+        },
+        {
+            "id": "testa_79",
+            "question": "Triều đại nhà Lý nước ta có bao nhiêu vị vua",
+            "answer": "9",
+            "candidate": "9"
+        },
+        {
+            "id": "testa_80",
+            "question": "đỉnh núi nào cao nhất Bosnia và Herzegovina",
+            "answer": "wiki/Núi_Maglić",
+            "candidate": "đỉnh Núi Maglić"
+        },
+        {
+            "id": "testa_81",
+            "question": "Ai hiện là giám đốc điều hành Xiaomi",
+            "answer": "wiki/Lôi_Quân",
+            "candidate": "Lei Jun"
+        },
+        {
+            "id": "testa_82",
+            "question": "ai là tác giả của thép đã tôi thế đấy",
+            "answer": "wiki/Nikolai_Alekseyevich_Ostrovsky",
+            "candidate": "nikolay ostrovsky"
+        },
+        {
+            "id": "testa_83",
+            "question": "Vĩ tuyến 17 chạy dọc theo con sông nào ở nước ta",
+            "answer": "wiki/Sông_Bến_Hải",
+            "candidate": "sông Bến Hải"
+        },
+        {
+            "id": "testa_84",
+            "question": "Nhạc sĩ Ludwig van Beethoven sinh ra ở thành phố nào của nước Đức?",
+            "answer": "wiki/Bonn",
+            "candidate": "Bonn"
+        },
+        {
+            "id": "testa_85",
+            "question": "Thủy điện lớn nhất Đông Nam Á có tên là gì ?",
+            "answer": "wiki/Nhà_máy_thủy_điện_Sơn_La",
+            "candidate": "Thủy điện Sơn La"
+        },
+        {
+            "id": "testa_86",
+            "question": "Hệ đầm phá Tam Giang-Cầu Hai lớn nhất Đông Nam Á thuộc tỉnh nào của Việt Nam",
+            "answer": "wiki/Thừa_Thiên_Huế",
+            "candidate": "tỉnh thừa thiên huế"
+        },
+        {
+            "id": "testa_87",
+            "question": "Danh nhân nào ví Vịnh Hạ Long là \"Kỳ quan đá dựng giữa trời cao\"",
+            "answer": "wiki/Nguyễn_Trãi",
+            "candidate": "Nguyễn Trãi"
+        },
+        {
+            "id": "testa_88",
+            "question": "Thế vận hội olympic lần thứ 6 được dự định tổ chức ở nước nào",
+            "answer": null,
+            "candidate": null
+        },
+        {
+            "id": "testa_89",
+            "question": "Năm 2014 tỉnh kết nghĩa anh em với tỉnh Bạc Liêu là tỉnh nào",
+            "answer": "wiki/Ninh_Bình",
+            "candidate": "tỉnh Ninh Bình"
+        },
+        {
+            "id": "testa_90",
+            "question": "Ngôi chùa đúc hoàn toàn bằng đồng ở Việt Nam ?",
+            "answer": "wiki/Chùa_Đồng",
+            "candidate": "Chùa Đồng ở Hà Nội"
+        },
+        {
+            "id": "testa_91",
+            "question": "Cuộc khởi nghĩa Nguyễn Trãi tham gia tên gì?",
+            "answer": "wiki/Khởi_nghĩa_Lam_Sơn",
+            "candidate": "lam sơn"
+        },
+        {
+            "id": "testa_92",
+            "question": "Trần Đại Quang mất vào năm nào",
+            "answer": "2018",
+            "candidate": "2018"
+        },
+        {
+            "id": "testa_93",
+            "question": "bác Hồ ra đi tìm đường cứu nước năm bao nhiêu",
+            "answer": "1911",
+            "candidate": "1911"
+        },
+        {
+            "id": "testa_94",
+            "question": "Người phụ nữ đầu tiên nào của Liên Xô đã bay vào vũ trụ",
+            "answer": "wiki/Valentina_Vladimirovna_Tereshkova",
+            "candidate": "Valentina Vladimirovna Tereshkova"
+        },
+        {
+            "id": "testa_95",
+            "question": "Tháp Báo Thiên hiện nay ở tình thành nào",
+            "answer": "wiki/Hà_Nội",
+            "candidate": "tỉnh Hà Nội"
+        },
+        {
+            "id": "testa_96",
+            "question": "Cuộc khởi nghĩa Lam Sơn do ai lãnh đạo ?",
+            "answer": "wiki/Lê_Thái_Tổ",
+            "candidate": "Lê Thái Tổ"
+        },
+        {
+            "id": "testa_97",
+            "question": "Nhà thờ Đức Bà Paris được xây dựng theo lối kiến trúc nào",
+            "answer": "wiki/Kiến_trúc_Gothic",
+            "candidate": "kiến trúc Gothic"
+        },
+        {
+            "id": "testa_98",
+            "question": "Ngoài trái đất, chòm sao gần nhất nào có khả năng chứa những hành tinh xuất hiện sự sống?",
+            "answer": "wiki/Alpha_Centauri",
+            "candidate": "Alpha Centauri"
+        },
+        {
+            "id": "testa_99",
+            "question": "Khối núi nào cao nhất miền Trung",
+            "answer": "wiki/Khối_núi_Ngọc_Linh",
+            "candidate": "Khối núi Ngọc Linh hay Ngọc Linh liên sơn"
+        },
+        {
+            "id": "testa_100",
+            "question": "ruộng bậc thang Mù Cang Chải nổi tiếng ở Tỉnh nào",
+            "answer": "wiki/Yên_Bái",
+            "candidate": "tỉnh Yên Bái"
+        },
+        {
+            "id": "testa_101",
+            "question": "Công trình Stonehenge được xây dựng ở quốc gia nào",
+            "answer": "wiki/Anh",
+            "candidate": "Anh"
+        },
+        {
+            "id": "testa_102",
+            "question": "Sint Maarten thuộc vương quốc nào",
+            "answer": "wiki/Vương_quốc_Hà_Lan",
+            "candidate": "Vương quốc Hà Lan"
+        },
+        {
+            "id": "testa_103",
+            "question": "Truyền kỳ mạn lục, một tác phẩm được đánh giá là \" thiên cổ kỳ bút\", là \"áng văn hay của bậc đại gia\", là sáng tác của ai?",
+            "answer": "wiki/Nguyễn_Dữ",
+            "candidate": "danh sĩ nguyễn dữ"
+        },
+        {
+            "id": "testa_104",
+            "question": "Nguyễn Thuật là quan thuộc triều đại phong kiến nào",
+            "answer": "wiki/Nhà_Nguyễn",
+            "candidate": "nhà Nguyễn"
+        },
+        {
+            "id": "testa_105",
+            "question": "đánh bắt cá ngừ sọc dưa thường diễn ra vào thời điểm nào",
+            "answer": "wiki/Cá_ngừ_sọc_dưa",
+            "candidate": "quanh năm"
+        },
+        {
+            "id": "testa_106",
+            "question": "Tên loài động vật chuyên dự trữ mỡ ở bướu",
+            "answer": "wiki/Lạc_đà",
+            "candidate": "lạc đà"
+        },
+        {
+            "id": "testa_107",
+            "question": "Ngôn ngữ chính thức của Ả Rập Xê Út là gì",
+            "answer": "wiki/Tiếng_Ả_Rập",
+            "candidate": "Tiếng Ả Rập"
+        },
+        {
+            "id": "testa_108",
+            "question": "Bằng sáng chế đầu tiên của cây bút bi là của ai?",
+            "answer": "wiki/John_J._Loud",
+            "candidate": "john j loud"
+        },
+        {
+            "id": "testa_109",
+            "question": "Afghanistan giáp với nước nào ở phía Tây",
+            "answer": "wiki/Iran",
+            "candidate": "Iran"
+        },
+        {
+            "id": "testa_110",
+            "question": "chiến tranh biên giới Tây Nam diễn ra vào năm nào",
+            "answer": "năm 1977",
+            "candidate": "năm 1977"
+        },
+        {
+            "id": "testa_111",
+            "question": "Puerto Rico giáp đại dương nào",
+            "answer": "wiki/Đại_Tây_Dương",
+            "candidate": "đại tây dương"
+        },
+        {
+            "id": "testa_112",
+            "question": "Barcelona là thành phố ở nước nào",
+            "answer": "wiki/Tây_Ban_Nha",
+            "candidate": "tây ban nha"
+        },
+        {
+            "id": "testa_113",
+            "question": "Trụ sở chính của Google nằm ở nước nào",
+            "answer": "wiki/Hoa_Kỳ",
+            "candidate": "Hoa Kỳ"
+        },
+        {
+            "id": "testa_114",
+            "question": "kỷ dung thư là phụ thân của ai",
+            "answer": null,
+            "candidate": null
+        },
+        {
+            "id": "testa_115",
+            "question": "Chùa Thanh Mai hiện nay thuộc tỉnh nào",
+            "answer": "wiki/Kỷ_Hiểu_Lam",
+            "candidate": "Kỷ Hiểu Lam"
+        },
+        {
+            "id": "testa_116",
+            "question": "Cây cầu nào bắc qua sông Tiền, nối liền 2 tỉnh Bến Tre và Tiền Giang",
+            "answer": "wiki/Cầu_Rạch_Miễu_2",
+            "candidate": "cầu rạch miễu 2"
+        },
+        {
+            "id": "testa_117",
+            "question": "Ai là người lãnh đạo khởi nghĩa Lam Sơn?",
+            "answer": "wiki/Lê_Thái_Tổ",
+            "candidate": "Lê lợi"
+        },
+        {
+            "id": "testa_118",
+            "question": "Đinh Tiên Hoàng đóng đô tại đâu?",
+            "answer": "wiki/Ninh_Bình",
+            "candidate": "Hoa Lư (Ninh Bình)"
+        },
+        {
+            "id": "testa_119",
+            "question": "Marathon là trận đánh giữa người Hy Lạp với quân đội nước nào",
+            "answer": "wiki/Dân_chủ_Athena",
+            "candidate": "quân dân Athena"
+        },
+        {
+            "id": "testa_120",
+            "question": "Lý Nam Đế đặt tên nước ta là gì",
+            "answer": "wiki/Vạn_Xuân",
+            "candidate": "Vạn Xuân"
+        },
+        {
+            "id": "testa_121",
+            "question": "Lễ hội đèn lồng lớn nhất của người Nhật tổ chức vào thời gian nào",
+            "answer": "ngày 15 tháng 8",
+            "candidate": "ngày 15 tháng 8"
+        },
+        {
+            "id": "testa_122",
+            "question": "Ai là tác giả của \" lịch triều hiến chương loại chí \" ?",
+            "answer": "wiki/Phan_Huy_Chú",
+            "candidate": "phan huy chú"
+        },
+        {
+            "id": "testa_123",
+            "question": "Thành phố Đà Nẵng được ngăn cách với thành phố Huế bởi ngọn đèo nổi tiếng nào",
+            "answer": "wiki/Đèo_Hải_Vân",
+            "candidate": "đèo hải vân"
+        },
+        {
+            "id": "testa_124",
+            "question": "Tên của hồ tự nhiên lớn nhất ở Hà Nội",
+            "answer": "wiki/Hồ_Tây",
+            "candidate": "Hồ Tây"
+        },
+        {
+            "id": "testa_125",
+            "question": "Làng cổ nào ở Hà Nội được mệnh danh Đất hai vua",
+            "answer": "wiki/Đường_Lâm",
+            "candidate": "làng cổ đường lâm"
+        },
+        {
+            "id": "testa_126",
+            "question": "\"Bỉ vỏ\" là tác phẩm của nhà văn nào ?",
+            "answer": "wiki/Nguyên_Hồng",
+            "candidate": "Nguyên Hồng"
+        },
+        {
+            "id": "testa_127",
+            "question": "Khởi nghĩa Hai Bà Trưng chống lại ách đô hộ của nhà nào?",
+            "answer": "wiki/Nhà_Hán",
+            "candidate": "nhà đông hán"
+        },
+        {
+            "id": "testa_128",
+            "question": "\"Chùa vàng\" là tên gọi khác của quốc gia nào",
+            "answer": "wiki/Thái_Lan",
+            "candidate": "Thái Lan"
+        },
+        {
+            "id": "testa_129",
+            "question": "Augustin Louis Cauchy là nhà toán học nước nào",
+            "answer": "wiki/Pháp",
+            "candidate": "Pháp"
+        },
+        {
+            "id": "testa_130",
+            "question": "Ai là người đổi tên thành Đại La thành Thăng Long?",
+            "answer": "wiki/Lý_Thái_Tổ",
+            "candidate": "Lý Công Uẩn tức Lý Thái Tổ"
+        },
+        {
+            "id": "testa_131",
+            "question": "Đất nước triệu voi là tên gọi của đất nước nào hiện nay",
+            "answer": "wiki/Lan_Xang",
+            "candidate": "Lan Xang"
+        },
+        {
+            "id": "testa_132",
+            "question": "núi lửa Nevado Sajama thuộc quốc gia nào",
+            "answer": "wiki/Bolivia",
+            "candidate": "Bolivia"
+        },
+        {
+            "id": "testa_133",
+            "question": "Sa mạc lớn nằm ở phía nam của Mông Cổ ?",
+            "answer": "wiki/Sa_mạc_Gobi",
+            "candidate": "Sa mạc Gobi"
+        },
+        {
+            "id": "testa_134",
+            "question": "Trụ sở Liên Hợp Quốc được đặt tại quốc gia nào",
+            "answer": "wiki/Hoa_Kỳ",
+            "candidate": "Mỹ"
+        },
+        {
+            "id": "testa_135",
+            "question": "Việt Nam giải phóng hoàn toàn đất nước vào năm nào",
+            "answer": "1975",
+            "candidate": "1975"
+        },
+        {
+            "id": "testa_136",
+            "question": "Hoàng Xuân Vinh kết hôn vào năm nào",
+            "answer": "2000",
+            "candidate": "2000"
+        },
+        {
+            "id": "testa_137",
+            "question": "Hoà thượng Thích Quảng Đức mất năm bao nhiêu",
+            "answer": "1963",
+            "candidate": "1963"
+        },
+        {
+            "id": "testa_138",
+            "question": "Cộng Hòa Nam Phi có chung đường biên giới với quốc gia nào kéo dài 1.840 km",
+            "answer": "wiki/Botswana",
+            "candidate": "Botswana"
+        },
+        {
+            "id": "testa_139",
+            "question": "Ai là tác giả của truyện ngắn \"Chiếc lá cuối cùng\"",
+            "answer": "wiki/O._Henry",
+            "candidate": "o henry"
+        },
+        {
+            "id": "testa_140",
+            "question": "Ngọn núi cao nhất của Nhật Bản ?",
+            "answer": "wiki/Phú_Sĩ",
+            "candidate": "núi Phú Sĩ"
+        },
+        {
+            "id": "testa_141",
+            "question": "Dãy núi nào biên giới tự nhiên giữa châu Á và châu Âu",
+            "answer": "wiki/Dãy_núi_Ural",
+            "candidate": "Dãy núi Ural"
+        },
+        {
+            "id": "testa_142",
+            "question": "Ai là người đứng đầu trong cuộc chống lại chính quyền Đông Hán?",
+            "answer": "wiki/Hai_Bà_Trưng",
+            "candidate": "Trưng Trắc và Trưng Nhị"
+        },
+        {
+            "id": "testa_143",
+            "question": "Ai là người sáng tác ca khúc Tiến quân ca?",
+            "answer": "wiki/Văn_Cao",
+            "candidate": "Văn Cao"
+        },
+        {
+            "id": "testa_144",
+            "question": "Cha đẻ của pin điện hóa ?",
+            "answer": "wiki/Alessandro_Volta",
+            "candidate": "alessandro volta"
+        },
+        {
+            "id": "testa_145",
+            "question": "Đèo Hải Vân cắt ngang dãy núi nào của Trường Sơn ?",
+            "answer": "wiki/Núi_Bạch_Mã",
+            "candidate": "dãy núi bạch mã"
+        },
+        {
+            "id": "testa_146",
+            "question": "Lý Thái Tổ đóng đô đầu tiên ở đâu?",
+            "answer": "wiki/Thăng_Long",
+            "candidate": "Thăng Long"
+        },
+        {
+            "id": "testa_147",
+            "question": "Ức Trai thi tập là tập thơ của ai?",
+            "answer": "wiki/Nguyễn_Trãi",
+            "candidate": "Nguyễn Trãi"
+        },
+        {
+            "id": "testa_148",
+            "question": "Ai là người có công khai phá vùng đất Cần Thơ",
+            "answer": "wiki/Mạc_Thiên_Tứ",
+            "candidate": "Mạc_Thiên_Tích"
+        },
+        {
+            "id": "testa_149",
+            "question": "Thuyết tương đối rộng là của ai?",
+            "answer": "wiki/Albert_Einstein",
+            "candidate": "Albert Einstein"
+        },
+        {
+            "id": "testa_150",
+            "question": "Ai là người thành lập Nhà Nguyễn",
+            "answer": "wiki/Gia_Long",
+            "candidate": "Nguyễn Ánh (Gia Long)"
+        },
+        {
+            "id": "testa_151",
+            "question": "Ai là người đầu tiên của quân đội nhân dân Việt Nam được phong hàm Đại tướng ?",
+            "answer": "wiki/Võ_Nguyên_Giáp",
+            "candidate": "Võ Nguyên Giáp"
+        },
+        {
+            "id": "testa_152",
+            "question": "Canada giáp với đại dương nào ở phía Bắc",
+            "answer": "wiki/Bắc_Băng_Dương",
+            "candidate": "Bắc Băng Dương"
+        },
+        {
+            "id": "testa_153",
+            "question": "Vị vua là con nuôi của vua Tự Đức",
+            "answer": "wiki/Dục_Đức",
+            "candidate": "Dục Đức"
+        },
+        {
+            "id": "testa_154",
+            "question": "Khoa thi đầu tiên của Việt Nam được tổ chức dưới triều đại của vua nào",
+            "answer": "wiki/Lý_Cao_Tông",
+            "candidate": "Lý Cao Tông"
+        },
+        {
+            "id": "testa_155",
+            "question": "Hệ đầm phá lớn nhất Đông Nam Á tên là gì",
+            "answer": "wiki/Hệ_đầm_phá_Tam_Giang_–_Cầu_Hai",
+            "candidate": "hệ đầm phá tam giang-cầu hai"
+        },
+        {
+            "id": "testa_156",
+            "question": "Quốc Tử Giám ở Huế được xây dựng dưới thời vua nào",
+            "answer": "wiki/Gia_Long",
+            "candidate": "vua gia long"
+        },
+        {
+            "id": "testa_157",
+            "question": "Tác giả của vở kịch \"con rồng tre\" là ai ?",
+            "answer": "wiki/Hồ_Chí_Minh",
+            "candidate": "nguyễn ái quốc"
+        },
+        {
+            "id": "testa_158",
+            "question": "Ngày Campuchia chính thức giành được độc lập là ngày tháng năm nào",
+            "answer": "ngày 9 tháng 11 năm 1953",
+            "candidate": "ngày 9 tháng 11 năm 1953"
+        },
+        {
+            "id": "testa_159",
+            "question": "Tên miền Internet quốc gia dành cho Canada là gì",
+            "answer": "wiki/.ca",
+            "candidate": ".ca"
+        },
+        {
+            "id": "testa_160",
+            "question": "Quốc gia nào nổi tiếng thế giới về trồng hoa tulip",
+            "answer": "wiki/Hà_Lan",
+            "candidate": "Hà Lan"
+        },
+        {
+            "id": "testa_161",
+            "question": "Đan Nguyên sinh năm mấy",
+            "answer": "1984",
+            "candidate": "1984"
+        },
+        {
+            "id": "testa_162",
+            "question": "Phố cổ Hội An nằm bên dòng sông nổi tiếng nào của tỉnh Quảng Nam",
+            "answer": "wiki/Sông_Thu_Bồn",
+            "candidate": "sông Thu Bồn"
+        },
+        {
+            "id": "testa_163",
+            "question": "Đặng Thị Ngọc Thịnh sinh năm bao nhiêu",
+            "answer": "1959",
+            "candidate": "1959"
+        },
+        {
+            "id": "testa_164",
+            "question": "Đại Việt sử ký toàn thư được phát hành vào đời vua nào?",
+            "answer": "wiki/Lê_Hy_Tông",
+            "candidate": "đời vua lê hy tông"
+        },
+        {
+            "id": "testa_165",
+            "question": "Ca trù có từ thời nhà nào",
+            "answer": null,
+            "candidate": null
+        },
+        {
+            "id": "testa_166",
+            "question": "Chu Văn An quê ở tỉnh thành nào nước ta hiện nay",
+            "answer": "wiki/Hà_Nội",
+            "candidate": "Hà Nội"
+        },
+        {
+            "id": "testa_167",
+            "question": "Hồ nội địa nào rộng nhất đông nam á",
+            "answer": "wiki/Tonlé Sap",
+            "candidate": "Tonlé Sap"
+        },
+        {
+            "id": "testa_168",
+            "question": "Lục địa nhỏ nhất thế giới là lục địa nào",
+            "answer": "wiki/Úc",
+            "candidate": "Úc"
+        },
+        {
+            "id": "testa_169",
+            "question": "Tổng thống thứ 44 của nước Mỹ là ai",
+            "answer": "wiki/Barack_Obama",
+            "candidate": "Barack Obama"
+        },
+        {
+            "id": "testa_170",
+            "question": "Pháp chính thức nổ phát súng đầu tiên xâm lược nước ta vào năm nào",
+            "answer": "năm 1858",
+            "candidate": "năm 1858"
+        },
+        {
+            "id": "testa_171",
+            "question": "Lễ hội Canaval là lễ hội nổi tiếng của nước nào",
+            "answer": "wiki/Brasil",
+            "candidate": "Brasil"
+        },
+        {
+            "id": "testa_172",
+            "question": "Vị vua nào đã đổi tên nước ta từ Đại Việt thành Việt Nam vào năm 1804 ?",
+            "answer": "wiki/Gia_Long",
+            "candidate": "vua gia long"
+        },
+        {
+            "id": "testa_173",
+            "question": "Tên con sông dài nhất châu Âu",
+            "answer": "wiki/Sông_Volga",
+            "candidate": "Sông Volga"
+        },
+        {
+            "id": "testa_174",
+            "question": "Ai là Tổng Bí thư Đảng Cộng sản Việt Nam đầu tiên?",
+            "answer": "wiki/Trịnh_Đình_Cửu",
+            "candidate": "Trịnh Đình Cửu"
+        },
+        {
+            "id": "testa_175",
+            "question": "Khu di tích thành Cổ Loa thuộc địa bàn xã nào",
+            "answer": "wiki/Cổ_Loa_(xã)",
+            "candidate": "xã Cổ Loa, huyện Đông Anh, Hà Nội"
+        },
+        {
+            "id": "testa_176",
+            "question": "Ai là người lãnh đạo dẹp loạn 12 sứ quân?",
+            "answer": "wiki/Đinh_Tiên_Hoàng",
+            "candidate": "đinh tiên hoàng"
+        },
+        {
+            "id": "testa_177",
+            "question": "Sinh thời, Nguyễn Bặc là tướng kiệt xuất của ai",
+            "answer": "wiki/Đinh_Tiên_Hoàng",
+            "candidate": "đinh tiên hoàng"
+        },
+        {
+            "id": "testa_178",
+            "question": "Ai là người kế nhiệm Sir Andrew Witty trở thành chủ tịch tập đoàn GlaxoSmithKline",
+            "answer": "wiki/Emma_Walmsley",
+            "candidate": "Emma Natasha Walmsley"
+        },
+        {
+            "id": "testa_179",
+            "question": "Người Việt Nam đầu tiên nào đặt chân lên vũ trụ vào năm 1980",
+            "answer": "wiki/Phạm_Tuân",
+            "candidate": "Phạm Tuân"
+        },
+        {
+            "id": "testa_180",
+            "question": "Có bao nhiêu điều trong luật bóng đá chính thức",
+            "answer": "17",
+            "candidate": "17"
+        },
+        {
+            "id": "testa_181",
+            "question": "Triều đại nào có công xây dựng Cột cờ Hà Nội, còn tồn tại đến nay",
+            "answer": "wiki/Nhà_Nguyễn",
+            "candidate": "triều nhà Nguyễn"
+        },
+        {
+            "id": "testa_182",
+            "question": "Hitler được bổ nhiệm làm thủ tướng Đức năm nào",
+            "answer": "1933",
+            "candidate": "1933"
+        },
+        {
+            "id": "testa_183",
+            "question": "Tết Đoan Ngọ hay Tết diệt sâu bọ là ngày tháng âm lịch nào hằng năm",
+            "answer": "ngày 5 tháng 5",
+            "candidate": "ngày 5 tháng 5"
+        },
+        {
+            "id": "testa_184",
+            "question": "Sông nào lớn nhất ở Canada",
+            "answer": "wiki/Sông_Mackenzie",
+            "candidate": "Sông Mackenzie"
+        },
+        {
+            "id": "testa_185",
+            "question": "Đảng cầm quyền của Campuchia từ năm 1981 đến nay là đảng nào",
+            "answer": "wiki/Đảng_Nhân_dân_Campuchia",
+            "candidate": "Đảng Nhân dân Campuchia"
+        },
+        {
+            "id": "testa_186",
+            "question": "Người nối nghiệp Đinh Tiên Hoàng sau khi ông qua đời",
+            "answer": "wiki/Đinh_Phế_Đế",
+            "candidate": "Đinh Toàn"
+        },
+        {
+            "id": "testa_187",
+            "question": "\"Ngư tiều y thuật vấn đáp\" là tác phẩm của ai ?",
+            "answer": "wiki/Nguyễn_Đình_Chiểu",
+            "candidate": "Nguyễn Đình Chiểu"
+        },
+        {
+            "id": "testa_188",
+            "question": "Người dựng lên nhà Hậu Lê là ai?",
+            "answer": "wiki/Lê_Thái_Tổ",
+            "candidate": "Lê Lợi"
+        },
+        {
+            "id": "testa_189",
+            "question": "Phan Văn Vĩnh sinh năm mấy",
+            "answer": "1955",
+            "candidate": "1955"
+        },
+        {
+            "id": "testa_190",
+            "question": "Dòng sông có chiều dài dài nhất Việt Nam tên là gì ?",
+            "answer": "wiki/Sông_Hồng",
+            "candidate": "Sông Hồng"
+        },
+        {
+            "id": "testa_191",
+            "question": "Hoàng Việt luật lệ ở thời nhà Nguyễn được ban hành năm nào",
+            "answer": "năm 1813",
+            "candidate": "năm 1813"
+        },
+        {
+            "id": "testa_192",
+            "question": "Thành phố lớn nào ở Pháp được xem là thủ phủ của rượu vang",
+            "answer": "wiki/Bordeaux",
+            "candidate": "bordeaux"
+        },
+        {
+            "id": "testa_193",
+            "question": "Ai là người được coi là sáng lập ra nhà Trần?",
+            "answer": "wiki/Trần_Thủ_Độ",
+            "candidate": "Trần Thủ Độ"
+        },
+        {
+            "id": "testa_194",
+            "question": "Tỉnh lỵ của Quảng Bình hiện là thành phố nào",
+            "answer": "wiki/Đồng_Hới",
+            "candidate": "Đồng Hới"
+        },
+        {
+            "id": "testa_195",
+            "question": "Dell được thành lập vào năm nào",
+            "answer": "1984",
+            "candidate": "1984"
+        },
+        {
+            "id": "testa_196",
+            "question": "\"Cò lả\" là điệu dân ca đồng bằng nào của nước ta ?",
+            "answer": "wiki/Đồng_bằng_sông_Hồng",
+            "candidate": "đồng bằng bắc bộ"
+        },
+        {
+            "id": "testa_197",
+            "question": "Grammy là giải thưởng về lĩnh vực gì ?",
+            "answer": "wiki/Công_nghiệp_âm_nhạc",
+            "candidate": "ngành công nghiệp âm nhạc"
+        },
+        {
+            "id": "testa_198",
+            "question": "Lễ hội Gióng diễn ra ở huyện nào của Hà Nội",
+            "answer": "wiki/Sóc_Sơn",
+            "candidate": "huyện Sóc Sơn"
+        },
+        {
+            "id": "testa_199",
+            "question": "Núi Bạch Mã nằm trên dãy núi nào",
+            "answer": "wiki/Dãy_Trường_Sơn",
+            "candidate": "Dãy Trường Sơn"
+        },
+        {
+            "id": "testa_200",
+            "question": "Đỉnh núi cao nhất dãy An pơ tên là gì",
+            "answer": "wiki/Mont_Blanc",
+            "candidate": "mont blanc"
+        }   
+        
+    ]
+}

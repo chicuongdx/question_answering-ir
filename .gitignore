@@ -1,0 +1,4 @@
+datasets/wikipedia_vietnamese_corpus
+processed/
+checkpoint_model/
+model/

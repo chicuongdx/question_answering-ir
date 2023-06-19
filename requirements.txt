@@ -1,0 +1,8 @@
+transformers
+pytorch
+gensim
+nltk
+pyvi
+tqdm
+pandas
+numpy
