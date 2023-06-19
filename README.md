@@ -17,7 +17,7 @@ This project focuses on developing a question answering system using information
 - Machine learning frameworks, library (e.g., Pytorch, Transformers, Huggingface)
 
 ## Installation
-1. Clone the repository: `git clone [repository URL]`
+1. Clone the repository: `git clone https://github.com/chicuongdx/question_answering-ir.git`
 2. Navigate to the project directory: `cd question_answering-ir`
 3. Install the required dependencies: `pip install -r requirements.txt`
 ![Alt text](slide/Pipline.png)
